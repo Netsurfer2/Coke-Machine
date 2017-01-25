@@ -1,0 +1,14 @@
+C:\Prog 120\HW1CokeMachine\HW1CokeMachine\bin\Debug\HW1CokeMachine.exe.config
+C:\Prog 120\HW1CokeMachine\HW1CokeMachine\bin\Debug\HW1CokeMachine.exe
+C:\Prog 120\HW1CokeMachine\HW1CokeMachine\bin\Debug\HW1CokeMachine.pdb
+C:\Prog 120\HW1CokeMachine\HW1CokeMachine\bin\Debug\ClassLibrary1.dll
+C:\Prog 120\HW1CokeMachine\HW1CokeMachine\bin\Debug\ClassLibrary1.pdb
+C:\Prog 120\HW1CokeMachine\HW1CokeMachine\obj\Debug\HW1CokeMachine.csprojResolveAssemblyReference.cache
+C:\Prog 120\HW1CokeMachine\HW1CokeMachine\obj\Debug\HW1CokeMachine.exe
+C:\Prog 120\HW1CokeMachine\HW1CokeMachine\obj\Debug\HW1CokeMachine.pdb
+C:\Prog 120\Saved\Saved1\HW1CokeMachine\HW1CokeMachine\bin\Debug\HW1CokeMachine.exe.config
+C:\Prog 120\Saved\Saved1\HW1CokeMachine\HW1CokeMachine\obj\Debug\HW1CokeMachine.exe
+C:\Prog 120\Saved\Saved1\HW1CokeMachine\HW1CokeMachine\obj\Debug\HW1CokeMachine.pdb
+C:\Prog 120\HW1CokeMachine\HW1CokeMachine\HW1CokeMachine\bin\Debug\HW1CokeMachine.exe.config
+C:\Prog 120\HW1CokeMachine\HW1CokeMachine\HW1CokeMachine\obj\Debug\HW1CokeMachine.exe
+C:\Prog 120\HW1CokeMachine\HW1CokeMachine\HW1CokeMachine\obj\Debug\HW1CokeMachine.pdb

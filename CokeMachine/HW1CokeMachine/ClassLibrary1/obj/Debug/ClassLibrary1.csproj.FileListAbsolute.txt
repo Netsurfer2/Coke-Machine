@@ -1,0 +1,5 @@
+C:\Prog 120\HW1CokeMachine\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Prog 120\HW1CokeMachine\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Prog 120\HW1CokeMachine\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Prog 120\HW1CokeMachine\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Prog 120\HW1CokeMachine\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
